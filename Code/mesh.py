@@ -5,8 +5,6 @@ Created on Sun Mar 12 23:01:56 2017
 @author: Arun
 """
 import os
-os.getcwd()
-
 os.chdir('Your directory')
 
 import numpy as np
@@ -75,10 +73,6 @@ mesh.bounding_box_oriented.primitive.transform
 print(mesh.bounding_box_oriented.volume,
       mesh.bounding_cylinder.volume,
       mesh.bounding_sphere.volume)
-
-
-
-
 
 import numpy
 from stl import mesh
