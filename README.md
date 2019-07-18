@@ -4,6 +4,8 @@ In today’s competitive world economy, the manufacturing and design engineers f
 
 When compared to traditional manufacturing processes like milling, drilling, etc., there are not many mathematical abstractions available for characterizing the FDM process. Majority of the literature is focused upon developing models for specific purposes with limited number of parameters, giving insight on how the process behaves with respect to changing parameters and methodology, thereby finding the optimum levels of parameters. In these cases, only the methodology is considered to be useful, as it hinders the use of developed model for different kinds of machines operating under the same FDM principle. So, developing a general abstraction of FDM process is of high importance to the growing user community which helps in saving cost, time and environment, with a major challenge being the limited amount of data and resources. So, in this paper, FDM-UMP model is developed and validated by fabricating a simple component shown in below figure with the aid of Stratasys Uprint SE Plus printer.
 
+![ump](/Graphical UMP.jpg)
+
 REPORT Folder: This folder consists of the following list of items
 	1. PDF document [FDM-UMP_Arun.pdf] containing all the necessary information of FDM UMP.
 	2. Optional: Graphical UMP in JPEG format 
