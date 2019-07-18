@@ -1,4 +1,4 @@
-## A SYSTEM AND ARCHITECTURE OF FUSED DEPOSITION MODELING - UNIT MANUFACTURING PROCESS (FDM-UMP).
+## A SYSTEM AND ARCHITECTURE OF FUSED DEPOSITION MODELING - UNIT MANUFACTURING PROCESS (FDM-UMP)
 
 In today’s competitive world economy, the manufacturing and design engineers face the challenge
 of manufacturing components rapidly to meet customer requirements and achieve competitive
