@@ -6,7 +6,7 @@ Created on Fri Mar 24 11:09:38 2017
 """
 
 import os
-os.chdir('C:\\Users\\Arun\\Google Drive\\Ph.D\\RAMP\\CODE')
+os.chdir('your directory')
 import numpy as np
 import json
 #from stl import mesh
