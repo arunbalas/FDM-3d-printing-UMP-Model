@@ -7,7 +7,7 @@ Created on Sun Mar 12 23:01:56 2017
 import os
 os.getcwd()
 
-os.chdir('C:\\Users\\Arun\\Google Drive\\Ph.D\\RAMP\\STL')
+os.chdir('your directory')
 
 import numpy as np
 from stl import mesh
