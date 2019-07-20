@@ -6,7 +6,7 @@ Created on Sun Mar 26 13:42:22 2017
 """
 
 import os
-os.chdir('C:\\Users\\Arun\\Google Drive\\Ph.D\\RAMP\\Report')
+os.chdir('your directory')
 
 
 # Jarvis March O(nh) - Tom Switzer <thomas.switzer@gmail.com>
