@@ -6,13 +6,13 @@ When compared to traditional manufacturing processes like milling, drilling, etc
 
 ![ump](https://github.com/arunbalas/FDM-UMP/blob/master/Graphical%20UMP.jpg)
 
-# REPORT Folder:
+### REPORT Folder:
 This folder consists of the following list of items
 	1. PDF document [FDM-UMP_Arun.pdf] containing all the necessary information of FDM UMP.
 	2. Optional: Graphical UMP in JPEG format 
 
 
-# CODE Folder:
+### CODE Folder:
 This folder consists of pdf file containing JSON and Python codes
 	1. CODE.pdf contains:
 		1.1. Input JSON 
@@ -20,4 +20,5 @@ This folder consists of pdf file containing JSON and Python codes
 		1.3. Output JSON 
 
 
-#REFERENCES Folder: This folder consists of all the main references used for this project.
+### REFERENCES Folder:
+This folder consists of all the main references used for this project.
