@@ -8,17 +8,13 @@ https://youtu.be/IaSZnU1Fvy8
 ![ump](https://github.com/arunbalas/FDM-UMP/blob/master/Graphical%20UMP.jpg)
 
 ### REPORT Folder:
-This folder consists of the following list of items
+This folder consists of the following list of items:
 	1. PDF document [FDM-UMP_Arun.pdf] containing all the necessary information of FDM UMP.
-	2. Optional: Graphical UMP in JPEG format 
+	
 
 
 ### CODE Folder:
-This folder consists of pdf file containing JSON and Python codes
-	1. CODE.pdf contains:
-		1.1. Input JSON 
-		1.2. Python code 
-		1.3. Output JSON 
+This folder consists of input.json and Python.py file. You can modify the input process parameters in the json file and run the python code to get the output process parameters (also in json format).
 
 
 ### REFERENCES Folder:
