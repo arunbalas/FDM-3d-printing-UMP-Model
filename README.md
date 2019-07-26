@@ -8,8 +8,7 @@ https://youtu.be/IaSZnU1Fvy8
 ![ump](https://github.com/arunbalas/FDM-UMP/blob/master/Graphical%20UMP.jpg)
 
 ### REPORT Folder:
-This folder consists of the following list of items:
-	1. PDF document [FDM-UMP_Arun.pdf] containing all the necessary information of FDM UMP.
+This folder consists of the PDF document [FDM-UMP_Arun.pdf] containing all the necessary information of FDM UMP.
 	
 
 
