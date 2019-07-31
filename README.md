@@ -4,10 +4,19 @@ In today’s competitive world economy, the manufacturing and design engineers f
 <p align="center">
 <img src="https://github.com/arunbalas/FDM-UMP/blob/master/IMG_2093.JPG" width="700" height="500">
 </p>
-When compared to traditional manufacturing processes like milling, drilling, etc., there are not many mathematical abstractions available for characterizing the FDM process. Majority of the literature is focused upon developing models for specific purposes with limited number of parameters, giving insight on how the process behaves with respect to changing parameters and methodology, thereby finding the optimum levels of parameters. In these cases, only the methodology is considered to be useful, as it hinders the use of developed model for different kinds of machines operating under the same FDM principle. So, developing a general abstraction of FDM process is of high importance to the growing user community which helps in saving cost, time and environment, with a major challenge being the limited amount of data and resources. So, in this paper, FDM-UMP model is developed and validated by fabricating a simple component shown in below figure with the aid of Stratasys Uprint SE Plus printer. The video demo of FDM-UMP model using python is available at this link:
-https://youtu.be/IaSZnU1Fvy8
+When compared to traditional manufacturing processes like milling, drilling, etc., there are not many mathematical abstractions available for characterizing the FDM process. Majority of the literature is focused upon developing models for specific purposes with limited number of parameters, giving insight on how the process behaves with respect to changing parameters and methodology, thereby finding the optimum levels of parameters. In these cases, only the methodology is considered to be useful, as it hinders the use of developed model for different kinds of machines operating under the same FDM principle. So, developing a general abstraction of FDM process is of high importance to the growing user community which helps in saving cost, time and environment, with a major challenge being the limited amount of data and resources. So, in this paper, FDM-UMP model is developed and validated by fabricating a simple component shown in below figure with the aid of Stratasys Uprint SE Plus printer. The video demo of FDM-UMP model using python is available at this link: https://youtu.be/IaSZnU1Fvy8
 
+<p align="center">
+<img src= "https://github.com/arunbalas/FDM-UMP/blob/master/Turbine%20processed%20data.JPG">
+Figure: A Sample CAD model used for process parameter estimation.
+</p>
+
+<p align="center">
+	
 ![ump](https://github.com/arunbalas/FDM-UMP/blob/master/Graphical%20UMP.jpg)
+Figure: Graphical UMP model for FDM (3D Printing) process.
+</p>
+
 
 ### REPORT Folder:
 This folder consists of the PDF document [FDM-UMP_Arun.pdf] containing all the necessary information of FDM UMP.
