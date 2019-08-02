@@ -14,7 +14,7 @@ from stl import mesh
 import trimesh
 
 # load a file by name or from a buffer
-mesh = trimesh.load_mesh('DEVIL_EMOJI 2.stl')
+mesh = trimesh.load_mesh('Your.stl file')
 
 # is the current mesh watertight?
 mesh.is_watertight
